@@ -1,9 +1,7 @@
 Constantin Smirnov
 ---
----
 Contact
----
----
+----
 * **Address**: Shaimerden Kosshygululy st. Astana, Kazakhstan
 * **Phone**: +77058041608
 * **WhatsApp and Telegram**: +79063205984
@@ -12,7 +10,6 @@ Contact
 * **GitHub**: [ConstantinSmirnov](https://github.com/ConstantinSmirnov)
 
 About me
----
 ---
 I am 29 years old, I work as fullstack engineer. I like to learn something new and use modern
 technologies in my job. I like to look for the most optimal solutions to solve tasks.
@@ -23,7 +20,6 @@ technologies in my job. I like to look for the most optimal solutions to solve t
   * Team player
 
 Skills
----
 ---
 * HTML
 * CSS
@@ -37,8 +33,8 @@ Skills
 * GIT (GitHub, GitLab, Bitbucket).
 * Code editors: VSCode, PHPStorm, PyCharm community.
 
-##Code examples
-___
+Code examples
+---
 CodeWars task example.
 >Your goal in this kata is to implement a difference function, which subtracts one list from another and returns the result.
 It should remove all values from list a, which are present in list b keeping their order.
@@ -62,7 +58,6 @@ function arrayDiff(firstArray, secondArray) {
 
 Experience
 ---
----
 * **Software Developer**, Archimed+, August 2018 - November 2021, Kazan, Russian Federation
   * Created tables, triggers, functions and stored procedure in MS SQL Server.
   * Developed reports and charts for users.
@@ -82,7 +77,6 @@ Experience
 
 Education
 ---
----
 * Bachelor Degree, Kazan Nation Research Technological University, 
 September 2012 - August 2016, Kazan, Russian Federation.
   * Chemistry Technology.
@@ -93,7 +87,6 @@ September 2016 - August 2018, Kazan, Russian Federation.
   * Passing the pool.
 
 Languages
----
 ---
 * Russian (native)
 * English (EPAM English test result: B1). I try to improve my English skills every day. I use different
