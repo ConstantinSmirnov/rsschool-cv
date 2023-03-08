@@ -1,1 +1,1 @@
-https://ConstantinSmirnov.github.io/rsschool-cv/cv
+https://ConstantinSmirnov.github.io/rsschool-cv/
