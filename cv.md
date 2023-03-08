@@ -1,5 +1,6 @@
 Constantin Smirnov
 ---
+
 Contact
 ---
 * **Address**: Shaimerden Kosshygululy st. Astana, Kazakhstan
