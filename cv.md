@@ -1,7 +1,7 @@
 Constantin Smirnov
 ---
 Contact
-----
+---
 * **Address**: Shaimerden Kosshygululy st. Astana, Kazakhstan
 * **Phone**: +77058041608
 * **WhatsApp and Telegram**: +79063205984
